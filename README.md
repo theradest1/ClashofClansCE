@@ -10,3 +10,7 @@ Download ISOCOMP.8xp and put onto your calculator. Run with asm( if your calcula
 ------------------------------------
 Source code:
 Download ISOSOURC.8xp, put it on your calculator, and edit it like a ti-basic program. Compile it with _pt's ICE compiler. Download the ICE compiler here: https://www.cemetech.net/downloads/files/1481/x1481
+
+------------------------------------
+Controls:
+The number pad to move the cursor (1 to 9), 5 is to select and go into a menu. To get out of the menu or exit the game, press graph.
