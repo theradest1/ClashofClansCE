@@ -8,7 +8,7 @@
 VERY MUCH A WORK IN PROGRESS - look at notes and known bugs if you get confused about anything
 
 To Run:
-1. send CECLASH.8xp to your calc
+1. send CECLASH.8xp to your calc (found in releases of this repo)
 2. If you want a pre-made map send EXMAP.8xv to your calc
 3. run CECLASH.8xp
 
